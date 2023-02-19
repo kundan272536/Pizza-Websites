@@ -10,7 +10,7 @@ function Contact() {
         <form id='contact-form' method='post'>
          <label htmlFor='name'>Full Name</label>
          <input name='name' placeholder='Enter your full name....' type="text"/>
-         <label htmlFor='email'>Full Name</label>
+         <label htmlFor='email'>Email</label>
          <input name='email' placeholder='Enter your email....' type="email"/>
          <label htmlFor='message'>Message</label>
          <textarea rows="6" placeholder='Enter message....' name='message' required></textarea>
